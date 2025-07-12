@@ -1,4 +1,4 @@
-# GUI For Cheats
+# GUI 
 
 This is a base GUI for a cheat menu.  
 
